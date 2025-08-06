@@ -1,6 +1,6 @@
-Phishing-Email-Analysis
+# Phishing-Email-Analysis
 
-📧 Sample Phishing Email Content:
+# 📧 Sample Phishing Email Content:
 
 From: account-security@micros0ft-support.com
 To: user@example.com
@@ -64,9 +64,9 @@ Summarize Phishing Traits Found in the Email
 Trait Description
 🔍 Spoofed Sender micros0ft-support.com instead of official domain 🔗 Malicious Link URL designed to steal credentials ⚠ Urgency Language Threatens suspension within 24 hours ❓ Domain Mismatch Hover link doesn’t match official Microsoft domain 🧠 Social Engineering Uses fear to drive hasty action ✍ Spelling Mistake Misspelled “Microsoft” using a zero
 
-🧾 Conclusion:
+# 🧾 Conclusion:
 This email contains multiple indicators of phishing, including: • Spoofed sender address • Malicious link disguised as a security check • Use of urgency and fear tactics • Minor spelling tricks • Failed SPF check in headers
 
-🛡 Advice:
+# 🛡 Advice:
 Never click suspicious links, verify with official support, and report to your security team.
 
